@@ -1,5 +1,7 @@
 # SpinSim
 SpinSim — A Python-powered interactive simulation suite to explore the physics of spintronics: spin polarization, GMR, TMR, spin transport, and more
+![SpinSim Logo](./SpinSim_logo.png)
+
 # 🌀 SpinSim
 
 > 🧪 **Explore the quantum world of spintronics through interactive Python simulations.**
